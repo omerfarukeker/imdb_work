@@ -20,7 +20,11 @@ The graph below gives the average values. First one displays the average voters 
 
 ![plot2](https://github.com/omerfarukeker/imdb_work/blob/master/average%20voters%20vs%20average%20film%20rating.png)
 
-In summary, people tend to
+In summary, does this analysis satisfy my original assumption that the 1994 is "The year"? Yes, somehow did. Clearly the films made in the 90s and early 20s are voted and gained attraction the most where 1999 being the highest. 1994 is in the top 3.
+
+Another interesting analysis is the correlation between film duration and film rating. As seen in the figure below film rating is positively correleated with the film duration. The longer the film the higher likely to get higher ratings :)
+
+![plot3](https://github.com/omerfarukeker/imdb_work/blob/master/Film%20Runtime%20Stats%202.png)
 
 I am looking forward to continue to work on this data as I am passionate about movies and data science. Recommendations are welcomed.
 
