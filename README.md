@@ -1,4 +1,5 @@
 # imdb_work
+![plot0](https://github.com/omerfarukeker/imdb_work/blob/master/header%20for%20linkedin2.png)
 Exploratory analysis on the IMDB movie database
 
 Following Python codes generates some exploratory graphs to see the correlation between movie features. The IMDB movie database can be downloaded from the link below:
