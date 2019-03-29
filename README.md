@@ -1,6 +1,6 @@
 # imdb_work
 ![plot0](https://github.com/omerfarukeker/imdb_work/blob/master/header%20for%20linkedin2.png)
-Exploratory analysis on the IMDB movie database
+## Exploratory analysis on the IMDB movie database
 
 Following Python codes generates some exploratory graphs to see the correlation between movie features. The IMDB movie database can be downloaded from the link below:
 https://www.imdb.com/interfaces/
@@ -23,7 +23,7 @@ The graph below contains two subplots, the former gives the total number of film
 
 This could be another research, we shall continue to find an answer to my original question:
 
-Was 1994 "the year" for the best films? 
+> Was 1994 "the year" for the best films? 
 
 The graph below gives the average values. The former displays the average voters per film again on a yearly basis, where the latter gives average film ratings per year. Since 1920s, average film ratings tend to fluctuate around 6/10. A slight increasing trend since late 80s is noticeable however the difference is not statistically significant to say films are getting better ratings. Average film rating graph still not answering the original question. 
 
