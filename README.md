@@ -1,9 +1,9 @@
-# imdb_work
 ![plot0](https://github.com/omerfarukeker/imdb_work/blob/master/header%20for%20linkedin2.png)
 ## Exploratory analysis on the IMDB movie database
 
 Following Python codes generates some exploratory graphs to see the correlation between movie features. The IMDB movie database can be downloaded from the link below:
-https://www.imdb.com/interfaces/
+
+[IMDB Database](https://www.imdb.com/interfaces/)
 
 The link also gives the description of the data.
 
@@ -17,7 +17,7 @@ Watching movies, talking about them and doing critics is another passion for me.
 
 I have always thought that 1994 is the year that best movies were made (Forrest Gump, Pulp Fiction, The Shawshank Redemption etc.). That's where this research idea was originated from.
 
-The graph below contains two subplots, the former gives the total number of films made each year, and the latter gives total number of voters for the films made at corresponding year which was peaked in 2013 and a dramatic drop comes after. This is where the strange things started. Number of films made per year is increasing non-stop. Why people stop voting recent films? Is it because movies getting worse? Or is it IMDb website loosing its popularity? However it is obvious that IMDb still dominates online film rating sector as their mind blowing monthly visitor number reaches to 250 million [read more](https://www.businesswire.com/news/home/20180222005150/en/IMDb-Launches-First-Ever-Skill-Amazon-Alexa). 
+The graph below contains two subplots, the former gives the total number of films made each year, and the latter gives total number of voters for the films made at corresponding year which was peaked in 2013 and a dramatic drop comes after. This is where the strange things started. Number of films made per year is increasing non-stop. Why people stop voting recent films? Is it because movies getting worse? Or is it IMDb website loosing its popularity? However it is obvious that IMDb still dominates online film rating sector as their mind blowing monthly visitor number reaches to 250 million [[read more]](https://www.businesswire.com/news/home/20180222005150/en/IMDb-Launches-First-Ever-Skill-Amazon-Alexa). 
 
 ![plot1](https://github.com/omerfarukeker/imdb_work/blob/master/number%20of%20films%20and%20number%20of%20film%20voters.png)
 
