@@ -19,7 +19,9 @@ I have always thought that 1994 is the year that best movies were made (Forrest 
 
 The graph below contains two subplots, the former gives the total number of films made each year, and the latter gives total number of voters for the films made at corresponding year which was peaked in 2013 and a dramatic drop comes after. This is where the strange things started. Number of films made per year is increasing non-stop. Why people stop voting recent films? Is it because movies getting worse? Or is it IMDb website loosing its popularity? However it is obvious that IMDb still dominates online film rating sector as their mind blowing monthly visitor number reaches to 250 million [[read more]](https://www.businesswire.com/news/home/20180222005150/en/IMDb-Launches-First-Ever-Skill-Amazon-Alexa). 
 
+<p align="center">
 ![plot1](https://github.com/omerfarukeker/imdb_work/blob/master/number%20of%20films%20and%20number%20of%20film%20voters.png)
+</p>
 
 This could be another research, we shall continue to find an answer to my original question:
 
